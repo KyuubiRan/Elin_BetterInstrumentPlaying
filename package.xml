@@ -1,11 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Meta>
     <title>Better Instrument Playing</title>
-    <id>Better Instrument Playing</id>
+    <id>kyuubiran.BetterInstrumentPlaying.mod</id>
     <author>KyuubiRan</author>
     <tags>QoL</tags>
     <loadPriority>100</loadPriority>
-    <version>1.0.0</version>
+    <version>0.23.267</version>
+    <visibility>Public</visibility>
     <description>
         Remove the penalty of resetting progress after 10 failed performances.
         移除演奏失败10次后重置进度的惩罚。

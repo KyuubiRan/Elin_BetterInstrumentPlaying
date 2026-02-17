@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Meta>
+    <title>Better Instrument Playing</title>
+    <id>Better Instrument Playing</id>
+    <author>KyuubiRan</author>
+    <tags>QoL</tags>
+    <loadPriority>100</loadPriority>
+    <version>1.0.0</version>
+    <description>
+        Remove the penalty of resetting progress after 10 failed performances.
+        移除演奏失败10次后重置进度的惩罚。
+    </description>
+</Meta>

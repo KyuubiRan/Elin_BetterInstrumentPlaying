@@ -8,7 +8,9 @@
     <version>0.23.267</version>
     <visibility>Public</visibility>
     <description>
-        Remove the penalty of resetting progress after 10 failed performances.
-        移除演奏失败10次后重置进度的惩罚。
+Remove the penalty of resetting progress after 10 failed performances. 
+Source: https://github.com/KyuubiRan/Elin_BetterInstrumentPlaying
+移除演奏失败10次后重置进度的惩罚。
+源码: https://github.com/KyuubiRan/Elin_BetterInstrumentPlaying
     </description>
 </Meta>
